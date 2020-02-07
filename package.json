@@ -1,5 +1,5 @@
 {
-  "name": "Template-Engine",
+  "name": "Template-Engine-Employee-Summary",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -16,13 +16,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ethanlloyd21/Template-Engine.git"
+    "url": "git+https://github.com/Ethanlloyd21/Template-Engine-Employee-Summary.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ethanlloyd21/Template-Engine/issues"
+    "url": "https://github.com/Ethanlloyd21/Template-Engine-Employee-Summary/issues"
   },
-  "homepage": "https://github.com/Ethanlloyd21/Template-Engine#readme"
+  "homepage": "https://github.com/Ethanlloyd21/Template-Engine-Employee-Summary#readme"
 }
