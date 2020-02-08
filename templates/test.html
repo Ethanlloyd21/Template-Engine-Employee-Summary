@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYpE html>
 <html lang="en">
 
 <head>
@@ -22,11 +22,16 @@
 
         }
 
+        #middle-card {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
         .card-body,
-        .test-body {
+        .card {
             background-color: orange;
             border: solid 5px white;
-            border-radius: 25px;
+            border-radius: 15px;
             text-align: left;
         }
 
@@ -34,6 +39,13 @@
             height: 250px;
             width: 250px;
             padding-right: 20px;
+        }
+
+        #photo2 {
+            height: auto;
+            width: 70%;
+            padding-right: 20px;
+            align-items: center;
         }
 
         #info {
@@ -55,16 +67,67 @@
                     </div>
                     <div class="col-sm-12 col-md-6" id="info">
                         <h1>Manager</h1>
-                        <h4>${gitName}</h4>
-                        <p>ID: </p>
-                        <p>Email: </p>
-                        <p>Office Number: </p>
+                        <h4>Name: ${gitName}</h4>
+                        <p class="setting">ID: </p>
+                        <p class="setting">Email: </p>
+                        <p class="setting">Office Number: </p>
                     </div>
 
                 </div>
             </div>
         </div>
-        <div class="insert"></div>
+    </div>
+
+    <div class="container text-center">
+
+        <div class="row" id="middle-card">
+
+
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <img src="../lib/img/engineer1.png" class="img-responsive img-circle" id="photo2">
+                        <p class="setting">Manager</p>
+                        <p class="setting">Name: ${gitName}</p>
+                        <p class="setting">ID: </p>
+                        <p class="setting">Email: </p>
+                        <p class="setting">Office Number: </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <img src="../lib/img/engineer2.png" class="img-responsive img-circle" id="photo2">
+                        <p>Manager</p>
+                        <p>Name: ${gitName}</p>
+                        <p>ID: </p>
+                        <p>Email: </p>
+                        <p>Office Number: </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <img src="../lib/img/intern2.png" class="img-responsive img-circle" id="photo2">
+                        <p>Manager</p>
+                        <p>Name: ${gitName}</p>
+                        <p>ID: </p>
+                        <p>Email: </p>
+                        <p>Office Number: </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <!--<div class="insert"></div>-->
 </body>
 
 </html>
