@@ -8,12 +8,10 @@
     "test": "test"
   },
   "dependencies": {
-    "inquirer": "^7.0.4",
-    "puppeteer": "^2.1.1"
+    "inquirer": "^7.0.4"
   },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "devDependencies": {
+    "jest": "^25.1.0"
   },
   "repository": {
     "type": "git",
