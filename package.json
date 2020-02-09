@@ -7,6 +7,10 @@
     "lib": "lib",
     "test": "test"
   },
+  "scripts": {
+    "test": "jest --verbose test/*",
+    "start": "node app.js"
+  },
   "dependencies": {
     "inquirer": "^7.0.4"
   },
