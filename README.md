@@ -29,7 +29,9 @@ Dependencies:
 
 ## Demo
 
-* <a href="https://drive.google.com/file/d/1yvJQJ8KwpDJHZ8nf7u2sNV15bTBD2cBw/view" target="_blank">Click for demo</a>
+* <a href="https://drive.google.com/file/d/1yvJQJ8KwpDJHZ8nf7u2sNV15bTBD2cBw/view" target="_blank">Click for demo</a> on how the application works.
+
+* <a href="https://drive.google.com/file/d/1rbCwtQyPx8E8FPXA1ThWzy1CL84BIBun/view" target="_blank">Click the view test run demo</a>
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
