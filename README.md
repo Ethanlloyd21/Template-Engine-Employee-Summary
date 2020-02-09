@@ -22,6 +22,14 @@ Dependencies:
 
 ![](lib/img/dependencies.PNG)
 
+## Testing
+
+* npm run test - will run a test using jest
+
+
 ## Demo
 
 * <a href="https://drive.google.com/file/d/1yvJQJ8KwpDJHZ8nf7u2sNV15bTBD2cBw/view" target="_blank">Click for demo</a>
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
