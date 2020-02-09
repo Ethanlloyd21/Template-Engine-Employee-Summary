@@ -1,5 +1,1 @@
-node_modules/
-.vscode
-.idea/
-.DS_Store
-~*pptx
+node_modules
