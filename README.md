@@ -19,6 +19,7 @@ so that I have quick access to emails and GitHub profiles
 * npm init
 
 Dependencies: 
+
 ![](lib/img/dependencies.PNG)
 
 ## Testing
