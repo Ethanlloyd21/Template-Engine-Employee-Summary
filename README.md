@@ -4,13 +4,11 @@
 
 Dependencies: 
 
-"dependencies": {
-    "inquirer": "^7.0.4",
-    "puppeteer": "^2.1.1"
-  },
-  "devDependencies": {
-    "jest": "^25.1.0"
-  },
+![](image/dependencies.PNG)
+
+* npm i
+* npm install --save-dev jest
+* npm init
 
 ## Demo
 
