@@ -4,7 +4,7 @@
 
 Dependencies: 
 
-![](image/dependencies.PNG)
+![](lib/img/dependencies.PNG)
 
 * npm i
 * npm install --save-dev jest
