@@ -13,13 +13,12 @@ so that I have quick access to emails and GitHub profiles
 
 ## Install
 
-Dependencies: 
-
 * npm install
 * npm i
 * npm install --save-dev jest
 * npm init
 
+Dependencies: 
 ![](lib/img/dependencies.PNG)
 
 ## Testing
