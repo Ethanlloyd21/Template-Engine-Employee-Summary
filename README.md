@@ -2,4 +2,4 @@
 
 ## Demo
 
-* <a href="https://drive.google.com/file/d/1yvJQJ8KwpDJHZ8nf7u2sNV15bTBD2cBw/view" alt="" target="blank">Click for demo</a>
+* <a href="https://drive.google.com/file/d/1yvJQJ8KwpDJHZ8nf7u2sNV15bTBD2cBw/view" target="_blank">Click for demo</a>
