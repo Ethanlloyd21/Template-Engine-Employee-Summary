@@ -22,6 +22,11 @@ Dependencies:
 
 ![](lib/img/depend.PNG)
 
+## Run
+
+To run the application just type:
+* node app.js
+
 ## Testing
 
 * npm run test - will run a test using jest
