@@ -20,7 +20,7 @@ so that I have quick access to emails and GitHub profiles
 
 Dependencies: 
 
-![](lib/img/dependencies.PNG)
+![](lib/img/depend.PNG)
 
 ## Testing
 
