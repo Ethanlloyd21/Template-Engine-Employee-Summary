@@ -29,7 +29,7 @@ Dependencies:
 
 ## Demo
 
-* <a href="https://drive.google.com/file/d/1yvJQJ8KwpDJHZ8nf7u2sNV15bTBD2cBw/view" target="_blank">Click here for demo on how the application works.
+* <a href="https://drive.google.com/file/d/1yvJQJ8KwpDJHZ8nf7u2sNV15bTBD2cBw/view" target="_blank">Click here to view demo (how the application works).
 
 * <a href="https://drive.google.com/file/d/1rbCwtQyPx8E8FPXA1ThWzy1CL84BIBun/view" target="_blank">Click here to view 'npm runt test' demo</a>
 
