@@ -34,7 +34,7 @@ To run the application just type:
 
 ## Demo
 
-![](lib/img/sample.png)
+![](lib/img/sample.PNG)
 
 * <a href="https://drive.google.com/file/d/1yO4M8pAAFzpijVdGRg2FCFMybQKnfhEi/view" target="_blank">Click here to view demo (how the application works).
 
