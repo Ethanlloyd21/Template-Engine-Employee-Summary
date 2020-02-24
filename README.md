@@ -40,5 +40,8 @@ To run the application just type:
 
 * <a href="https://drive.google.com/file/d/1rbCwtQyPx8E8FPXA1ThWzy1CL84BIBun/view" target="_blank">Click here to view 'npm runt test' demo</a>
 
+## Author
+* Lloyd Marcelino, 2020
+
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
